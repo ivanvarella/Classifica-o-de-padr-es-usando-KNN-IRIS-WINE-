@@ -1,12 +1,20 @@
 .
 ├── data
 │   ├── dt_raw_results.csv
+│   ├── imgs
+│   │   ├── comparativo_desempenho_todos_modelos_output.png
+│   │   ├── impacto_k_acuracia_knn_output.png
+│   │   ├── impacto_max_depth_acuracia_dt_output.png
+│   │   ├── matriz_confusao_best_dt_output.png
+│   │   ├── matriz_confusao_best_knn_by_dataset_output.png
+│   │   └── matriz_confusao_best_nb_80porc_output.png
 │   ├── knn_raw_results.csv
 │   └── nb_raw_results.csv
 ├── main.ipynb
-├── plano_acao.md
+├── main.pdf
 ├── README.md
+├── Relatório_v3.md
 ├── requirements.txt
 └── tree.txt
 
-2 directories, 8 files
+3 directories, 15 files

@@ -272,12 +272,19 @@ jupyter notebook main.ipynb
 ├── 📄 main.ipynb                    # Notebook principal com toda a análise
 ├── 📄 requirements.txt              # Dependências do projeto
 ├── 📄 README.md                     # Este arquivo
-├── 📄 plano_acao.md                 # Plano de desenvolvimento
+├── 📄 Relatório_v3.md               # Relatório detalhado em Markdown
 ├── 📄 tree.txt                      # Estrutura de diretórios
 └── 📁 data/                         # Resultados dos experimentos
     ├── 📄 knn_raw_results.csv       # Resultados brutos do k-NN
     ├── 📄 nb_raw_results.csv        # Resultados brutos do Naive Bayes
-    └── 📄 dt_raw_results.csv        # Resultados brutos da Árvore de Decisão
+    ├── 📄 dt_raw_results.csv        # Resultados brutos da Árvore de Decisão
+    └── 📁 imgs/                     # Gráficos e visualizações
+        ├── 📄 comparativo_desempenho_todos_modelos_output.png
+        ├── 📄 impacto_k_acuracia_knn_output.png
+        ├── 📄 impacto_max_depth_acuracia_dt_output.png
+        ├── 📄 matriz_confusao_best_dt_output.png
+        ├── 📄 matriz_confusao_best_knn_by_dataset_output.png
+        └── 📄 matriz_confusao_best_nb_80porc_output.png
 
 ```
 
