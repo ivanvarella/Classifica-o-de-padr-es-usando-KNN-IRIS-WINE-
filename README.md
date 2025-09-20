@@ -274,13 +274,11 @@ jupyter notebook main.ipynb
 ├── 📄 README.md                     # Este arquivo
 ├── 📄 plano_acao.md                 # Plano de desenvolvimento
 ├── 📄 tree.txt                      # Estrutura de diretórios
-├── 📁 data/                         # Resultados dos experimentos
-│   ├── 📄 knn_raw_results.csv       # Resultados brutos do k-NN
-│   ├── 📄 nb_raw_results.csv        # Resultados brutos do Naive Bayes
-│   └── 📄 dt_raw_results.csv        # Resultados brutos da Árvore de Decisão
-└── 📁 Atividade_Info/               # Documentação da atividade
-    ├── 📄 Atividade_Descrição.pdf   # Descrição oficial da atividade
-    └── 📄 UFRN_ELE_606__2025.2_-_Professor_Jos_Alfredo_F._Costa_-_KNN_17_Setembro_2025.pdf
+└── 📁 data/                         # Resultados dos experimentos
+    ├── 📄 knn_raw_results.csv       # Resultados brutos do k-NN
+    ├── 📄 nb_raw_results.csv        # Resultados brutos do Naive Bayes
+    └── 📄 dt_raw_results.csv        # Resultados brutos da Árvore de Decisão
+
 ```
 
 ## 🔍 Principais Descobertas

@@ -1,14 +1,12 @@
 .
-├── Atividade_Info
-│   ├── Atividade_Descrição.pdf
-│   └── UFRN_ELE_606__2025.2_-_Professor_Jos_Alfredo_F._Costa_-_KNN_17_Setembro_2025.pdf
 ├── data
 │   ├── dt_raw_results.csv
 │   ├── knn_raw_results.csv
 │   └── nb_raw_results.csv
 ├── main.ipynb
 ├── plano_acao.md
+├── README.md
 ├── requirements.txt
 └── tree.txt
 
-3 directories, 9 files
+2 directories, 8 files
